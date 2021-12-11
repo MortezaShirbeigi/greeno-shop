@@ -1,3 +1,7 @@
 @import "./reset.scss";
 @import "./fonts.scss";
 @import "../containers/app/styles/app.scss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
